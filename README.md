@@ -2,7 +2,7 @@
 
 Possible topics could be:
 
-HTML Tables
-Other HTML tags
-CSS selectors and specificity
-Common CSS properties
+-   HTML Tables
+-   Other HTML tags
+-   CSS selectors and specificity
+-   Common CSS properties
