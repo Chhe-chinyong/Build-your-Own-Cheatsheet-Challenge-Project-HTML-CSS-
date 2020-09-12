@@ -1,0 +1,46 @@
+body{
+    text-align: center !important;
+    font-family: monospace;
+    font-weight: bold;
+}
+
+
+.title{
+    color: #9b59b6;
+    font-size: 1.5rem;
+}
+
+h1{
+    font-size: 2rem;
+}
+
+.head{
+    background-color: #FDA7DF;
+    font-size: 1rem;
+}
+
+.tag{
+    background-color: beige;
+}
+
+table{
+    margin: 0 auto;
+    text-align: center;
+    border: 1px solid #f8a5c2;
+}
+
+td{
+    border-bottom: 1px solid #f8a5c2;
+}
+
+.foot td{
+    border: none;
+}
+
+.container{
+    text-align: center;
+}
+
+.tbody{
+    text-align: left;
+}
